@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-jhoao/static/css/main.e6c13ad2.css",
+    "main.js": "/react-jhoao/static/js/main.019fe8d1.js",
+    "index.html": "/react-jhoao/index.html",
+    "main.e6c13ad2.css.map": "/react-jhoao/static/css/main.e6c13ad2.css.map",
+    "main.019fe8d1.js.map": "/react-jhoao/static/js/main.019fe8d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.019fe8d1.js"
+  ]
+}
